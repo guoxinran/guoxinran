@@ -22,6 +22,6 @@ date = "2017-10-16"
 
 这里人才基因库的有七个步骤，用结构图总结出来如下：
 
-<img src="C:\hugo\site\guoxinran\content\post\基因库建立步骤.png" width="200" align="right" hspace="20" vspace="0" />
+<img src="/post/基因库建立步骤.png" width="200" align="right" hspace="20" vspace="0" />
 
 总的来说，构建团队是一个系统的，需要精心设计的工程。在团队组建方面，公司应该关注吸收多样人才，而不是仅仅为了增加一个团队职能或者预算。
